@@ -128,6 +128,7 @@ PRODUCT_PACKAGES += \
     NotchBarKillerSweet \
     SettingsOverlay \
     SettingsLibOverlaySweet \
+    SettingsLibOverlaySweet \
     SettingsProviderOverlaySweet \
     SweetinproSettingsProvider \
     SweetinproWifiOverlay \

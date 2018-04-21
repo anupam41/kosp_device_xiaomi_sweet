@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.ssos.settingslib.overlay.sweet">
+=======
+    package="com.arrow.settingsliboverlay.sweet">
+>>>>>>> c989ec0... sweet: overlay: Set fast charging indicator threshold to 10.8W
 
     <application android:hasCode="false" />
     <overlay android:targetPackage="com.android.settingslib"
