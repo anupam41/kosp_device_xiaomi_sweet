@@ -57,6 +57,10 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES += \
     CutoutRingServiceSweet
 
+# Device Settings
+PRODUCT_PACKAGES += \
+    DeviceSettings
+
 # Display
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/display/qdcm_calib_data_xiaomi_k6_38_0c_0a_fhd_dsc_video_dsi_panel.xml:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/$(PRODUCT_TARGET_VNDK_VERSION)/etc/qdcm_calib_data_xiaomi_k6_38_0c_0a_fhd_dsc_video_dsi_panel.xml
