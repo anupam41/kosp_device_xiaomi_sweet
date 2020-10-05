@@ -169,6 +169,7 @@ PRODUCT_PACKAGES += \
     SweetinproWifiOverlay \
     SystemUIOverlaySweet \
     TelephonyOverlaySweet \
+    TelephonyProviderOverlaySweet \
     WifiOverlay
 
 # SystemUI plugins
