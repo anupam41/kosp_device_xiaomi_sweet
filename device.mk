@@ -172,6 +172,10 @@ PRODUCT_PACKAGES += \
     TelephonyProviderOverlaySweet \
     WifiOverlay
 
+# Now Playing
+PRODUCT_PACKAGES += \
+    NowPlayingOverlay
+
 # SystemUI plugins
 PRODUCT_PACKAGES += \
     QuickAccessWallet
