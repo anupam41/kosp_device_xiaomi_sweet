@@ -170,7 +170,8 @@ PRODUCT_PACKAGES += \
     SystemUIOverlaySweet \
     TelephonyOverlaySweet \
     TelephonyProviderOverlaySweet \
-    WifiOverlay
+    TetheringConfigOverlaySweet \
+    WifiOverlaySweet
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \
