@@ -59,7 +59,8 @@ PRODUCT_PACKAGES += \
 
 # Device Settings
 PRODUCT_PACKAGES += \
-    DeviceSettings
+    DeviceSettings \
+    init.devicesettings.rc
 
 # Display
 PRODUCT_COPY_FILES += \
