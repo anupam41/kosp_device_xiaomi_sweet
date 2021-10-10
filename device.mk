@@ -421,6 +421,7 @@ PRODUCT_PACKAGES += \
 
 # ContextHub
 PRODUCT_PACKAGES += \
+    chre \
     android.hardware.contexthub@1.2-impl.generic \
     android.hardware.contexthub@1.2-service.generic
 
