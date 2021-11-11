@@ -88,7 +88,8 @@
     <string name="ambient_display_xiaomi">Xiaomi Doze</string>
     <string name="advanced_doze_summary">Ambient display</string>
 
-    <!-- Thermal Profiles -->
+    <string name="power_title">Power</string>
+
     <string name="thermal_title">Thermal Profiles</string>
     <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
     <string name="thermal_default">Default</string>
