@@ -155,6 +155,7 @@ PRODUCT_PACKAGES += \
     SettingsOverlay \
     SettingsLibOverlaySweet \
     SettingsProviderOverlaySweet \
+    SimpleDeviceConfigOverlaySweet \
     SweetinproSettingsProvider \
     SweetinproWifiOverlay \
     SystemUIOverlaySweet \
