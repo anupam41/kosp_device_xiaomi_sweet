@@ -48,20 +48,14 @@
 
         <activity
             android:name=".DozeSettingsActivity"
-<<<<<<< HEAD
-=======
             android:exported="true"
->>>>>>> d326667... sweet: doze: set all android:exported to true
             android:label="@string/ambient_display_title"
             android:theme="@style/Theme.SubSettingsBase">
         </activity>
         
         <service
             android:name="org.lineageos.settings.doze.DozeTileService"
-<<<<<<< HEAD
-=======
             android:exported="true"
->>>>>>> d326667... sweet: doze: set all android:exported to true
             android:icon="@drawable/ic_doze"
             android:label="@string/ambient_display_gestures_title"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
