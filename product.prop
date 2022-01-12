@@ -5,9 +5,6 @@ ro.secure=0
 ro.debuggable=1
 ro.control_privapp_permissions=log
 
-# IORAP
-persist.device_config.runtime_native_boot.iorap_readahead_enable=true
-
 # Graphics
 debug.cpurend.vsync=false
 
