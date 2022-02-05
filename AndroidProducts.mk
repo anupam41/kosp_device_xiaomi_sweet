@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_sweet.mk
+    $(LOCAL_DIR)/krypton_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    yaap_sweet-user \
-    yaap_sweet-userdebug \
-    yaap_sweet-eng
+    krypton_sweet-user \
+    krypton_sweet-userdebug \
+    krypton_sweet-eng
