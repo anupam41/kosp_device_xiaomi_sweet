@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_sweet.mk
+    $(LOCAL_DIR)/krypton_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_sweet-eng \
-    nad_sweet-userdebug \
-    nad_sweet-user
+    krypton_sweet-eng \
+    krypton_sweet-userdebug \
+    krypton_sweet-user
