@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/krypton_sweet.mk
+    $(LOCAL_DIR)/blaze_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    krypton_sweet-eng \
-    krypton_sweet-userdebug \
-    krypton_sweet-user
+    blaze_sweet-eng \
+    blaze_sweet-userdebug \
+    blaze_sweet-user

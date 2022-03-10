@@ -6,10 +6,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/sweet/device.mk)
 
 # Inherit common Nusantara configurations
-$(call inherit-product, vendor/krypton/config/common_full_phone.mk)
+$(call inherit-product, vendor/blaze/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
+WITH_GAPPS := true
+BLAZE_BUILD_TYPE := Official
+BLAZE_MAINTAINER := Anupam
 
-PRODUCT_NAME := krypton_sweet
+PRODUCT_NAME := blaze_sweet
 PRODUCT_DEVICE := sweet
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10 Pro
